@@ -37,7 +37,8 @@ I love working with Python, visualization libraries, and machine learning models
 ## 📚 Currently Learning
 - Advanced Machine Learning  
 - Improving Data Visualization & Storytelling  
-- Building cleaner, more professional analytical pipelines  
+- SQL
+- Deep Learning 
 
 ---
 
